@@ -1,0 +1,92 @@
+{
+    "title": {
+        "media": {
+          "url": "/nikijd/objects/demo_001.jpg",
+          "caption": "Administration Building, University of Idaho, No. 30",
+          "credit": "CollectionBuilder2022"
+        },
+        "text": {
+          "headline": "CollectionBuilder2022 Timeline",
+          "text": "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://nikijd.github.io/nikijd/objects/demo_001.jpg",
+          "caption": "Administration Building, University of Idaho, No. 30",
+          "link": "https://nikijd.github.io/nikijd/item.html?id=demo_001",
+          "credit": "CollectionBuilder2022"
+        },
+        "start_date": { 
+          "year": "1910"
+        },
+        "text": {
+          "headline": "Administration Building, University of Idaho, No. 30",
+          "text": "Photographic postcard of the University of Idaho administration building in Moscow, Idaho."
+        }
+      },{
+        "media": {
+          "url": "https://nikijd.github.io/nikijd/objects/demo_002.pdf",
+          "caption": "Spokane County Court House, Spokane, Washington",
+          "link": "https://nikijd.github.io/nikijd/item.html?id=demo_002",
+          "credit": "CollectionBuilder2022"
+        },
+        "start_date": { 
+          "month": "09",
+          "day": "08",
+          "year": "1912"
+        },
+        "text": {
+          "headline": "Spokane County Court House, Spokane, Washington",
+          "text": "Postcard is of the Spokane County Courthouse in Spokane, Washington. Postmark 9/8/1912, Spokane, WA. Destination San Francisco, CA."
+        }
+      },{
+        "media": {
+          "url": "https://nikijd.github.io/nikijd/objects/demo_003.mp3",
+          "caption": "Good News - Power",
+          "link": "https://nikijd.github.io/nikijd/item.html?id=demo_003",
+          "credit": "CollectionBuilder2022"
+        },
+        "start_date": { 
+          "year": "1947"
+        },
+        "text": {
+          "headline": "Good News - Power",
+          "text": "Psychiana radio program episode begins with assurance that there is a Power that can get people what they desire. Robinson then discusses his early life failures and childhood seeking of some force that could turn his failures into success. He asserts the God-Power can turn our failures into success and bring us material and spiritual abundance."
+        }
+      },{
+        "media": {
+          "url": "https://www.youtube.com/watch?v=CVXQ3X6Q8oU",
+          "caption": "University of Idaho vs. University of Southern California (Football), 10/30/1925",
+          "link": "https://nikijd.github.io/nikijd/item.html?id=demo_004",
+          "credit": "CollectionBuilder2022"
+        },
+        "start_date": { 
+          "month": "10",
+          "day": "30",
+          "year": "1925"
+        },
+        "text": {
+          "headline": "University of Idaho vs. University of Southern California (Football), 10/30/1925",
+          "text": "Idaho Football vs. University of Southern California 10/30/1925 at Neale Stadium in Moscow, ID. Score: 7 - 51 (L)."
+        }
+      },{
+        "media": {
+          "url": "https://digital.lib.uidaho.edu/digital/iiif/expforsav/390/full/pct:50/0/default.jpg",
+          "caption": "Ford pumper used for slash burning control",
+          "link": "https://nikijd.github.io/nikijd/item.html?id=demo_005",
+          "credit": "CollectionBuilder2022"
+        },
+        "start_date": { 
+          "month": "09",
+          "day": "01",
+          "year": "1932"
+        },
+        "text": {
+          "headline": "Ford pumper used for slash burning control",
+          "text": "Ford pumper used for slash burning control. September 1932. From the photo series depicting the broadcast burn at the mouth of Benton Creek."
+        }
+      }
+    ]
+}

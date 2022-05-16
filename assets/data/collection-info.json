@@ -1,0 +1,21 @@
+{ 
+    "title": "CollectionBuilder2022",
+    "url": "https://nikijd.github.io/nikijd/",
+    "image": "/nikijd/objects/demo_001.jpg", 
+    "description": "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills",
+    "publisher": { 
+        "name": "CollectionBuilder"
+    },
+    "date_start": "1910",
+    "date_end": "1947",
+    "objects": {
+        "image/jpeg": "2",
+        "application/pdf": "1",
+        "audio/mpeg": "1",
+        "video/mp4": "1"
+        
+    },
+    "data": "https://nikijd.github.io/nikijd/assets/data/datapackage.json",
+    "last_build_date": "2022-05-16"
+}
+

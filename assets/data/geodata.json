@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [ 
+        
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.009633,46.725562]
+            },            
+            "properties":{
+                "title": "Administration Building, University of Idaho, No. 30",
+                "creator": "Pacific Photo Co.",
+                "date": "1910",
+                "description": "Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",
+                "subject": "universities; buildings; campuses; picture postcards",
+                "location": "Moscow, Idaho",
+                "latitude": "46.725562",
+                "longitude": "-117.009633",
+                "source": "PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",
+                "identifier": "pg_9_12_01bl",
+                "type": "Image;StillImage",
+                "format": "image/jpeg",
+                "language": "eng",
+                
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                
+                "reference_url": "https://nikijd.github.io/nikijd/item.html?id=demo_001"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.428031,47.66432]
+            },            
+            "properties":{
+                "title": "Spokane County Court House, Spokane, Washington",
+                "creator": "Spokane Post Card Co.",
+                "date": "1912-09-08",
+                "description": "Postcard is of the Spokane County Courthouse in Spokane, Washington. Postmark 9/8/1912, Spokane, WA. Destination San Francisco, CA.",
+                "subject": "public buildings; county courthouses; trees; picture postcards",
+                "location": "Spokane, Washington",
+                "latitude": "47.66432",
+                "longitude": "-117.428031",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives",
+                "identifier": "Postcard_032",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                
+                "reference_url": "https://nikijd.github.io/nikijd/item.html?id=demo_002"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[ -117.015671,46.726113 ]
+            },            
+            "properties":{
+                "title": "University of Idaho vs. University of Southern California (Football), 10/30/1925",
+                "creator": "Vandal Athletics",
+                "date": "1925-10-30",
+                "description": "Idaho Football vs. University of Southern California 10/30/1925 at Neale Stadium in Moscow, ID. Score: 7 - 51 (L).",
+                "subject": "American Football",
+                "location": "Moscow, Idaho",
+                "latitude": "46.726113 ",
+                "longitude": " -117.015671",
+                "source": "Vandal Video Collection, Digital Initiatives, University of Idaho Library",
+                "identifier": "MG 23, Item 29",
+                "type": "Image;MovingImage",
+                "format": "video/mp4",
+                "language": "eng",
+                "rights": "CC - Attribution 4.0 International. Digital reproduction rights assigned to the University of Idaho Library by donor/contributing institution/source (as applicable). For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+                
+                "reference_url": "https://nikijd.github.io/nikijd/item.html?id=demo_004"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-116.8483333,48.34472222]
+            },            
+            "properties":{
+                "title": "Ford pumper used for slash burning control",
+                
+                "date": "1932-09-01",
+                "description": "Ford pumper used for slash burning control. September 1932. From the photo series depicting the broadcast burn at the mouth of Benton Creek.",
+                
+                "location": "Bonner County;Priest River Experimental Forest;Benton Creek",
+                "latitude": "48.34472222",
+                "longitude": "-116.8483333",
+                "source": "The sources for the photos in this collection were as follows: Priest River Experimental Forest, Moscow Foresty Sciences Lab, USDA-Forest Service Region 1 archive, University of Montana Library Gisborne Collection, and Ms. Susan Marsh",
+                "identifier": "FirePump1",
+                "type": "Image;StillImage",
+                "format": "image/jpeg",
+                "language": "eng",
+                "rights": "Material produced by the United States Forest Service and is in Public Domain. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "rightsstatement": "https://creativecommons.org/publicdomain/mark/1.0/",
+                
+                "reference_url": "https://nikijd.github.io/nikijd/item.html?id=demo_005"
+            }
+        }
+    ]
+}
